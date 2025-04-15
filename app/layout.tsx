@@ -26,9 +26,9 @@ export default function RootLayout({
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
         <link
           rel="preload"
-          href="/fonts/British-Castilla.otf"
+          href="/fonts/BritishCastilla-Script.woff2"
           as="font"
-          type="font/otf"
+          type="font/woff2"
           crossOrigin="anonymous"
         />
       </head>
